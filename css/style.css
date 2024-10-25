@@ -26,6 +26,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     max-width: 800px;   
+    border-radius: 40%;
 }
 
 article {
@@ -42,6 +43,7 @@ p {
 
 .sedans {
     background-color:hsl(31, 77%, 52%);
+    border-radius: 10px 0% 0% 10px;
 }
 
 .suvs {
