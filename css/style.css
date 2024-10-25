@@ -64,6 +64,7 @@ button {
     width: 125px;
     border: none;
     background-color:hsla(0, 0%, 100%);
+    font-family: "Lexend Deca", serif; 
 }
 
 .butSedans {
