@@ -52,4 +52,5 @@ p {
 
 .luxury {
     background-color: hsl(179, 100%, 13%);
+    border-radius: 0px 10px 10px 0px;
 }
